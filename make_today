@@ -1,10 +1,10 @@
 #!/bin/bash
 
-directories="dates/$(date +%Y)/$(date +%m-%b)"
+directories="notes/$(date +%Y)/$(date +%m-%b)"
 
 mkdir -p $directories
 
-cat <<EOF > "$directories/$(date +%F-%a)".md
+cat << EOF > "$directories/$(date +%F-%a)".md
 # Tasks for $(date "+%a %b %d %Y")
 
 - Refine tasks, check emails, read messages & follow-up 🍅

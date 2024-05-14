@@ -1,4 +1,5 @@
-dates/*
-!dates/.gitkeep
+notes/*
+!notes/.gitkeep
 node_modules
-.vscode/
+.vscode/*
+!.vscode/settings.json
