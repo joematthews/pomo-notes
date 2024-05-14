@@ -9,7 +9,7 @@ These instructions assume you have [Git version control](https://git-scm.com/) i
 > [!NOTE]  
 > Pomo Notes assumes you have Bash and the [date command](https://man7.org/linux/man-pages/man1/date.1.html) installed on your machine (typically MacOS & Linux), but should work fine with Windows if using the Git Bash Terminal within VSCode.
 
-[Clone the repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) and then execute the following (using Mac or Linux) within the pomo-notes directory:
+[Clone the repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) and then execute the following within the pomo-notes directory:
 
 ```
 git clone https://github.com/joematthews/pomo-notes.git
