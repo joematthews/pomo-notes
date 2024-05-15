@@ -5,7 +5,7 @@ Visit the [Wikipedia page for Pomodoro](https://en.wikipedia.org/wiki/Pomodoro_T
 ## Getting Started
 
 > [!NOTE]  
-> Pomo Notes assumes you have, git bash, and the [date command](https://man7.org/linux/man-pages/man1/date.1.html) installed on your machine (typically MacOS & Linux), but should work fine with Windows if using the Git Bash Terminal within VSCode.
+> Pomo Notes assumes you have, git, bash, and the [date command](https://man7.org/linux/man-pages/man1/date.1.html) installed on your machine (typically macOS & Linux), but should work fine with Windows if using the Git Bash Terminal within VSCode.
 
 [Clone the repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) and then execute the following within the pomo-notes directory:
 
@@ -44,7 +44,7 @@ The default template can be customized in the [./make_today](./make_today) file 
 
 Install the [Prettier extension for VSCode](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) and use [the VSCode editor](https://code.visualstudio.com/) for making edits to the markdown file. This project is set up to automatically format the Markdown files on save. Also, files will save automatically after 3 seconds.
 
-The contents of the `notes/` directory is ignored in the [.gitignore](./.gitignore) file. Therefore all notes will not be pushed with git. This is intentional. If you need to back up your notes please consider a file sync solution (like rsync) or zip up the notes directory.
+The contents of the `notes/` directory is ignored in the [.gitignore](./.gitignore) file, but the files are still searchable within VSCode. This is intentional. If you need to back up your notes please consider a file sync solution (like rsync) or zip up the notes directory.
 
 ## Contributions to the Project
 
