@@ -4,10 +4,8 @@ Visit the [Wikipedia page for Pomodoro](https://en.wikipedia.org/wiki/Pomodoro_T
 
 ## Getting Started
 
-These instructions assume you have [Git version control](https://git-scm.com/) installed
-
 > [!NOTE]  
-> Pomo Notes assumes you have Bash and the [date command](https://man7.org/linux/man-pages/man1/date.1.html) installed on your machine (typically MacOS & Linux), but should work fine with Windows if using the Git Bash Terminal within VSCode.
+> Pomo Notes assumes you have, git bash, and the [date command](https://man7.org/linux/man-pages/man1/date.1.html) installed on your machine (typically MacOS & Linux), but should work fine with Windows if using the Git Bash Terminal within VSCode.
 
 [Clone the repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) and then execute the following within the pomo-notes directory:
 
