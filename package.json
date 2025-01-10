@@ -1,4 +1,5 @@
 {
+  "name": "pomo-notes",
   "scripts": {
     "format": "prettier --write \"**/*.{md,js,json}\"",
     "check-spelling": "cspell \"**/*.{md,js,json}\"",
