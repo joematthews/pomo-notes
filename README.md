@@ -62,3 +62,7 @@ All new files are ignored by git. This is intentional. If you need to back up yo
 The [pre-commit hook](./.husky/pre-commit) calls executes the commands in [lintstagedrc.json](.lintstagedrc.json) ensures all project files do not have spelling mistakes and are properly formatted on commit.
 
 Push changes to your fork and then [create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) to merge to the original project.
+
+# Future Plans
+
+In the future I will likely add more scripts to sync the notes directory with various cloud providers.
