@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "format": "prettier --write \"**/*.{md,js,json}\"",
+    "check-spelling": "cspell \"**/*.{md,js,json}\"",
+    "prepare": "husky install"
+  },
+  "dependencies": {
+    "date-fns": "^4.1.0"
+  },
+  "devDependencies": {
+    "cspell": "^8.17.1",
+    "husky": "^8.0.0",
+    "lint-staged": "^15.2.2",
+    "prettier": "^3.2.5"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "dictionaries": [
+    "bash",
+    "companies",
+    "cpp",
+    "csharp",
+    "css",
+    "filetypes",
+    "fonts",
+    "go",
+    "html",
+    "latex",
+    "misc",
+    "node",
+    "npm",
+    "php",
+    "powershell",
+    "python",
+    "softwareTerms",
+    "typescript"
+  ],
+  "words": [
+    "bierner",
+    "esbenp",
+    "lintstagedrc",
+    "Pomo",
+    "Pomodoro",
+    "Tomatobar"
+  ]
+}
